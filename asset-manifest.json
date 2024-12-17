@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Premier-Site-REACT/static/css/main.eb136904.css",
-    "main.js": "/Premier-Site-REACT/static/js/main.b1d48be3.js",
-    "index.html": "/Premier-Site-REACT/index.html",
-    "main.eb136904.css.map": "/Premier-Site-REACT/static/css/main.eb136904.css.map",
-    "main.b1d48be3.js.map": "/Premier-Site-REACT/static/js/main.b1d48be3.js.map"
+    "main.css": "/Cars_React/static/css/main.eb136904.css",
+    "main.js": "/Cars_React/static/js/main.b1d48be3.js",
+    "index.html": "/Cars_React/index.html",
+    "main.eb136904.css.map": "/Cars_React/static/css/main.eb136904.css.map",
+    "main.b1d48be3.js.map": "/Cars_React/static/js/main.b1d48be3.js.map"
   },
   "entrypoints": [
     "static/css/main.eb136904.css",
