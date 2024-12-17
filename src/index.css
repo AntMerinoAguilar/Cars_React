@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+}
+
+header {
+  text-align: center;
+  text-transform: uppercase;
+  margin: 20px 0 20px 0;
+}
+
+.car {
+  width: 450px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: whitesmoke;
+  margin: 40px auto;
+  padding: 20px 0;
+}
+
+.car_img {
+  width: 400px;
+}
+
+.car_title {
+  margin: 10px;
+}
