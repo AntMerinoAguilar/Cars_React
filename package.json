@@ -2,7 +2,7 @@
   "name": "01.exo1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AntMerinoAguilar.github.io/Premier-Site-REACT",
+  "homepage": "https://AntMerinoAguilar.github.io/Cars_React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
