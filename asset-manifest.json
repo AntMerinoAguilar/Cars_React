@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Premier-Site-REACT/static/css/main.eb136904.css",
+    "main.js": "/Premier-Site-REACT/static/js/main.b1d48be3.js",
+    "index.html": "/Premier-Site-REACT/index.html",
+    "main.eb136904.css.map": "/Premier-Site-REACT/static/css/main.eb136904.css.map",
+    "main.b1d48be3.js.map": "/Premier-Site-REACT/static/js/main.b1d48be3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb136904.css",
+    "static/js/main.b1d48be3.js"
+  ]
+}
